@@ -1,0 +1,172 @@
+img.linetop {
+    height: 10px;
+    margin-left: 165px;
+    width: 72%;
+}
+img.linetoptwo {
+    height: 10px;
+    margin-left: 165px;
+    width: 72%;
+    margin-top: -22px;
+}
+
+header ul {
+    list-style: none;
+    
+    
+}
+header ul li {
+    
+    
+    display: inline-block;
+    margin-left: 2px;
+    margin-right: auto;
+    margin-top: 0px;
+    width: 140px;
+    font-family:cursive
+}
+.links {
+    text-align: center;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    
+}
+header a:hover {
+    
+    text-decoration: underline;
+   
+}
+div.wrapsocial {
+    margin-left: 608px;
+    margin-top: 10px;
+}
+}
+
+div.container4 ul {
+    margin: 0;
+    position: absolute;
+    top: -820%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
+img.displayed{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -1650px;
+}
+.content {
+    height: 300px;
+    width: 500px;
+    margin-left: 430px;
+    margin-top: 125px;
+    font-style: italic;
+}
+img.booking {
+    margin-left: 255px;
+    margin-right: auto;
+    margin-top: -132px;
+}
+img.booking1 {
+    margin-left: -2px;
+    margin-right: auto;
+    margin-top: -132px;
+}
+
+.mySlides {
+    display:none;
+    margin-left: 257px;
+    margin-right: auto;
+    width: 334px;
+    height: 333px;
+    margin-top: -4px;
+}
+p.social {
+    color: white;
+    margin-left: 330px;
+     display: inline-block;
+    word-spacing: 200px;
+}
+img.line {
+    height: 10px;
+    margin-left: 230px;
+    width: 20%;
+}
+img.linetwo {
+    height: 10px;
+    margin-left: 20px;
+    width: 20%;
+}
+img.linethree {
+    height: 10px;
+    width: 20%;
+    margin-left: 30px;
+}
+
+p.socials {
+    color: white;
+    margin-left: 310px;
+     display: inline-block;
+    word-spacing: 180px;
+   
+}
+p.signup {
+    color: white;
+    margin-left: 140px;
+     display: inline-block;
+    width: 250px;
+    font-style: italic;
+    font-size: 13px;
+}
+p.bottomtext {
+    width: 240px;
+    color: white;
+    margin-left: 250px;
+    font-style: italic;
+    font-size: 13px;
+}
+img.follow {
+    margin-left: 300px;
+}
+img.follow2 {
+    margin-left: 150px;
+}
+div.footerpic {
+    margin-left: 550px;
+    margin-top: -100px;
+    
+}
+div.fieldname {
+    color: white;
+    margin-left: 850px;
+    margin-top: -130px;
+    width: 200px;
+}
+div.year {
+    display: inline-block;
+    margin-left: 830px;
+    height: 20px;
+    width: 250px;
+    color: white;
+    margin-top: 10px;
+}
+div.submit {
+    margin-left: 900px;
+    margin-top: 10px;
+}
+img.linebottom {
+    height: 10px;
+    margin-left: 165px;
+    width: 72%;
+}
+
+p.footer {
+    color: white;
+    margin-left: 250px;
+    font-size: 12px;
+     display: inline-block;
+    word-spacing: 10px;
